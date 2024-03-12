@@ -1,0 +1,9 @@
+{
+    "diagnostics.globals": [
+        "vim",
+        "nm",
+        "im",
+        "vm",
+        "tm"
+    ]
+}
